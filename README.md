@@ -62,22 +62,13 @@ The **Home Office** segment represents sales to small businesses or home-based o
 2. Use the filters (Consumer, Corporate, Home Office) to analyze segment-specific data.
 3. Navigate through visualizations for detailed insights into categories, products, and regions.
 
----
-
-## 📷 Screenshots
-Below are additional visuals from the dashboard:
-
-### **Sales by State**
-![Sales by State](image-salesbystate.png)
-
-### **Top Products by Sales**
-![Top Products](image-topproducts.png)
 
 ---
 
 ## 🌟 Technologies Used
 - **Power BI** for dashboard creation.
 - **Dummy Data** for Amazon sales metrics.
+- **MS SQL SERVER** for Data integration and management.
 
 ---
 
@@ -87,4 +78,4 @@ This dashboard uses simulated data for demonstration purposes only. The numbers,
 ---
 
 ## 📝 Author
-- Created by [Your Name](https://github.com/your-profile)
+- Created by [Devesh Jaluka](https://github.com/dj216185)
